@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # IoT_predictive_engine_
 =======
+=======
+>>>>>>> b95b993 (IoT_predictive_engine project)
 # FactoryGuard AI - IoT Predictive Maintenance Engine
 
 **Production-ready time-series ML system** for predicting catastrophic machine failures **24 hours in advance** using sensor telemetry (temperature, vibration, pressure).
@@ -389,4 +392,7 @@ This is a production-ready ML engineering template. Key features:
 
 **Built with:** Python 3.12, LightGBM, SHAP, Flask, Scikit-learn, Pandas, NumPy
 "# IoT_Predictive_Engine" 
+<<<<<<< HEAD
 >>>>>>> b95b9937171850021b47b5051a78dcdabbf80ec8
+=======
+>>>>>>> b95b993 (IoT_predictive_engine project)
